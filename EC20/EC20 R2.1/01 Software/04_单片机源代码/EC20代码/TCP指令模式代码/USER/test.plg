@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\STM32设计\EC20\EC20开发资料\LCC资料\04_单片机源代码\EC20代码\TCP指令模式代码\USER\test.uvproj
+Project File Date:  01/09/2019
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+main.c(15): warning:  #177-D: variable "strx" was declared but never referenced
+compiling EC20.c...
+..\HARDWARE\EC20\EC20.c(29): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=7832 RO-data=268 RW-data=72 ZI-data=1736  
+".\test.axf" - 0 Errors, 2 Warning(s).
+Load "E:\\STM32设计\\EC20\\EC20开发资料\\LCC资料\\04_单片机源代码\\EC20代码\\TCP指令模式代码\\USER\\test.axf" 
+Full Chip Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling main.c...
+main.c(15): warning:  #177-D: variable "strx" was declared but never referenced
+linking...
+Program Size: Code=7832 RO-data=268 RW-data=72 ZI-data=1736  
+".\test.axf" - 0 Errors, 1 Warning(s).

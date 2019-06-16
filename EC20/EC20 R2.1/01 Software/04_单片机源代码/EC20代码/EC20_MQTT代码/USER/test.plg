@@ -1,0 +1,88 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\STM32设计\EC20\EC20开发资料\LCC资料\04_单片机源代码\EC20代码\MQTT代码\USER\test.uvproj
+Project File Date:  01/13/2017
+
+<h2>Output:</h2>
+Build target 'Target 1'
+linking...
+Program Size: Code=7844 RO-data=268 RW-data=72 ZI-data=1736  
+".\test.axf" - 0 Errors, 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=7836 RO-data=268 RW-data=72 ZI-data=1736  
+".\test.axf" - 0 Errors, 0 Warning(s).
+Build target 'Target 1'
+compiling M26.c...
+..\HARDWARE\M26\M26.c(30): warning:  #177-D: variable "i" was declared but never referenced
+..\HARDWARE\M26\M26.c(122): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=7840 RO-data=268 RW-data=72 ZI-data=1736  
+".\test.axf" - 0 Errors, 2 Warning(s).
+Load "E:\\STM32设计\\EC20\\EC20开发资料\\LCC资料\\04_单片机源代码\\EC20代码\\MQTT代码\\USER\\test.axf" 
+Build target 'Target 1'
+linking...
+Program Size: Code=7840 RO-data=268 RW-data=72 ZI-data=1736  
+".\test.axf" - 0 Errors, 0 Warning(s).
+Load "E:\\STM32设计\\EC20\\EC20开发资料\\LCC资料\\04_单片机源代码\\EC20代码\\MQTT代码\\USER\\test.axf" 
+Full Chip Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling usart.c...
+linking...
+Program Size: Code=7840 RO-data=268 RW-data=72 ZI-data=1736  
+".\test.axf" - 0 Errors, 0 Warning(s).
+Build target 'Target 1'
+compiling M26.c...
+..\HARDWARE\M26\M26.c(29): warning:  #177-D: variable "i" was declared but never referenced
+..\HARDWARE\M26\M26.c(121): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=7816 RO-data=268 RW-data=72 ZI-data=1736  
+".\test.axf" - 0 Errors, 2 Warning(s).
+Build target 'Target 1'
+compiling M26.c...
+..\HARDWARE\M26\M26.c(29): warning:  #177-D: variable "i" was declared but never referenced
+..\HARDWARE\M26\M26.c(121): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=7832 RO-data=268 RW-data=72 ZI-data=1736  
+".\test.axf" - 0 Errors, 2 Warning(s).
+Load "E:\\STM32设计\\EC20\\EC20开发资料\\LCC资料\\04_单片机源代码\\EC20代码\\MQTT代码\\USER\\test.axf" 
+Full Chip Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=7832 RO-data=268 RW-data=72 ZI-data=1736  
+".\test.axf" - 0 Errors, 0 Warning(s).
+Load "E:\\STM32设计\\EC20\\EC20开发资料\\LCC资料\\04_单片机源代码\\EC20代码\\MQTT代码\\USER\\test.axf" 
+Full Chip Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+linking...
+Program Size: Code=7832 RO-data=268 RW-data=72 ZI-data=1736  
+".\test.axf" - 0 Errors, 0 Warning(s).
+Load "E:\\STM32设计\\EC20\\EC20开发资料\\LCC资料\\04_单片机源代码\\EC20代码\\MQTT代码\\USER\\test.axf" 
+Full Chip Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=7824 RO-data=268 RW-data=72 ZI-data=1736  
+".\test.axf" - 0 Errors, 0 Warning(s).
+Load "E:\\STM32设计\\EC20\\EC20开发资料\\LCC资料\\04_单片机源代码\\EC20代码\\MQTT代码\\USER\\test.axf" 
+Full Chip Erase Done.
+Programming Done.
+Verify OK.
+Application running ...

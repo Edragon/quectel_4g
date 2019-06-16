@@ -1,0 +1,19 @@
+..\obj\rtc_alarm.o: ..\HARDWARE\RTC_Alarm\RTC_Alarm.c
+..\obj\rtc_alarm.o: ..\HARDWARE\RTC_Alarm\RTC_Alarm.h
+..\obj\rtc_alarm.o: ..\USER\stm32f10x.h
+..\obj\rtc_alarm.o: ..\CORE\core_cm3.h
+..\obj\rtc_alarm.o: D:\Program Files (x86)\KEIL\keil474\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\rtc_alarm.o: ..\USER\system_stm32f10x.h
+..\obj\rtc_alarm.o: ..\USER\stm32f10x_conf.h
+..\obj\rtc_alarm.o: ..\STM32F10x_FWLib\inc\stm32f10x_can.h
+..\obj\rtc_alarm.o: ..\USER\stm32f10x.h
+..\obj\rtc_alarm.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\obj\rtc_alarm.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\rtc_alarm.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\rtc_alarm.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\rtc_alarm.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\rtc_alarm.o: ..\STM32F10x_FWLib\inc\stm32f10x_rtc.h
+..\obj\rtc_alarm.o: ..\STM32F10x_FWLib\inc\stm32f10x_pwr.h
+..\obj\rtc_alarm.o: ..\STM32F10x_FWLib\inc\stm32f10x_bkp.h
+..\obj\rtc_alarm.o: ..\HARDWARE\LED\led.h
+..\obj\rtc_alarm.o: ..\SYSTEM\sys\sys.h
